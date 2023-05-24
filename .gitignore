@@ -1,0 +1,8 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+
+# IDE-specific ignores
+.idea/
+*.vscode/
+
